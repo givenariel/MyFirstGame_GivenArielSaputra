@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Project/Course_Agate_Action/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Unreal Project/Course_Agate_Action/Content/Levels/Testing.umap",
+				"D:/Unreal Project/Course_Agate_Action/Content/BP_Actor.uasset",
+				"D:/Unreal Project/Course_Agate_Action/Content/Task2/Level_Task2.umap",
+				"D:/Submission Unreal Course/Course_Agate_Action_Sub/Content/Task2/Level_Task2.umap"
+			]
+		}
+	]
+}
